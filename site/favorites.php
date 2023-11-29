@@ -13,7 +13,7 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] != true) {
 ?>
  
 <header class="w3-container" style="padding:32px 16px 8px">
-  <h1 class="w3-margin">FAVORITES MENU</h1>
+  <h1 class="w3-margin">ADD FAVORITE SONG</h1>
 </header>
 
 <body class="w3-panel" >
