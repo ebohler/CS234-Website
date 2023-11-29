@@ -1,6 +1,6 @@
 # CS234-Website
+## This is a website created for my CS234 Semester Project.
 
-* This is a website created for my CS234 Semester Project.
 * Database-driven using MySQL and written in PHP with PDO
 * Includes a registration table to store registered users and two other tables in a one-to-many relationship
 * Contains full admin CRUD functionality for each table
