@@ -20,7 +20,7 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] != true) {
         <li>All usernames are unique and all passwords are hashed using bcrypt</li>
         <li>Uses sessions to prevent users to access the website without signing in</li>
         <li>Styled using the W3.CSS framework</li>
-        <li>Made by Evan Bohler</li>
+        <li><a href="https://github.com/ebohler/CS234-Website">Made by Evan Bohler</a></li>
     </ul>
 </header>
 
